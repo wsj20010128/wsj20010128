@@ -8,7 +8,7 @@
 
 Languages: Python, Java, C/C++, Dart, PHP, Rust, Javascript, HTML, CSS, SQL, Bash, LaTeX
 
-Other skills: Linux (Ubuntu, Centos), Vim, git, Docker, Flutter, Django, MySQL, SQL Server, MongoDB, Clickhouse, TensorFlow, PyTorch, Scikit-Learn
+Other skills: Linux (Ubuntu, Centos), Vim, git, Docker, Flutter, Django, MySQL, MongoDB, Clickhouse, TensorFlow, PyTorch
 
 <!--
 **wsj20010128/wsj20010128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
