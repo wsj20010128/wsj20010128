@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello.
 
 👤 [witnessj.com](https://witnessj.com)
 
