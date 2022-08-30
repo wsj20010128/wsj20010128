@@ -9,7 +9,6 @@
 Languages: Python, Java, C/C++, Dart, PHP, Rust, Javascript, HTML, CSS, SQL, Bash, LaTeX
 
 Other skills: Linux (Ubuntu, Centos), Vim, git, Docker, Flutter, Django, MySQL, SQL Server,
-
               MongoDB, Clickhouse, TensorFlow, PyTorch, Scikit-Learn
 
 <!--
