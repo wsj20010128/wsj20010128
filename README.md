@@ -2,7 +2,7 @@
 
 👤 [witnessj.com](https://witnessj.com)
 
-📄 [witnessj.com/resume](https://witnessj.com/s/cv)
+📄 [witnessj.com/resume](https://witnessj.com/cv)
 
 📫 [shijie@witnessj.com](shijie@witnessj.com)
 
