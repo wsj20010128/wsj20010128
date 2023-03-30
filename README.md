@@ -34,9 +34,6 @@
   <p>&emsp;&emsp;"Code is my paintbrush 🖌️. The world is my canvas 🖼️."</p>
   <p>&emsp;&emsp;📖 Software Development, Machine Learning, Computer Vision, Quantitative Trading, Blockchain</p>
   <p>&emsp;&emsp; 🏋 ⛹🏻‍♂️ 🚴🏻‍♂️ 🎸 🪗 🎹 🎤 </p>
-  
-  
-</td></tr>
 
 <!--
 **wsj20010128/wsj20010128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
