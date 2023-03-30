@@ -12,7 +12,7 @@
   <div align="center">
     <a href="https://witnessj.com/"><img src="https://img.shields.io/badge/Website-Blog-9cf" /></a>&emsp;
     <a href="https://www.linkedin.com/in/shijiew/"><img src="https://img.shields.io/badge/Linked-in-blue" /></a>&emsp;
-    <a href="https://witnessj.com/cv"><img src="https://img.shields.io/badge/Resu-me-green" /></a>&emsp;
+    <a href="https://witnessj.com/cv"><img src="https://img.shields.io/badge/Resume-CV-green" /></a>&emsp;
   </div>
   
   <!-- Snake Contribution -->
