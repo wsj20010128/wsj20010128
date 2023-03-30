@@ -31,10 +31,6 @@
   <p>&emsp;&emsp;Hello, World! I’m Shijie.</p>
   <p>&emsp;&emsp;BSMS CS @ Georgia Tech 🐝</p>
   
-
-Languages: Python, Java, C/C++, Dart, PHP, Rust, Javascript, HTML, CSS, SQL, Bash, LaTeX
-
-Other skills: Linux (Ubuntu, Centos), Vim, git, Docker, Flutter, Django, MySQL, MongoDB, Clickhouse, TensorFlow, PyTorch
   
 </td></tr>
 
