@@ -13,6 +13,9 @@
     <a href="https://witnessj.com/"><img src="https://img.shields.io/badge/Website-Blog-9cf" /></a>&emsp;
     <a href="https://www.linkedin.com/in/shijiew/"><img src="https://img.shields.io/badge/Linked-in-blue" /></a>&emsp;
   </div>
+  
+  <!-- Snake Contribution -->
+  <img src="https://github.com/wsj20010128/wsj20010128/blob/main/snake-contribution/github-contribution-grid-snake.svg" />
 </div>
 
 # Hi there 👋
