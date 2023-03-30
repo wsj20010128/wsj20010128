@@ -22,9 +22,6 @@
 </div>
 
 # 👋 Hi there
-<table>
-<tr><td>
-
 <!-- About me -->
 ### 👨‍💻 About Me
   <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/handshake.gif" />
