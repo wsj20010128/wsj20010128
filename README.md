@@ -5,6 +5,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=580&lines=System.out.println(%22Hello%2C%20World!%22);; Welcome to WitnessJ's Cornucopia! &center=true&size=27" alt="Typing SVG" />
   </div>
 
+  <!-- coding picture -->
+  <img src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/coding.gif" /><br>
 </div>
 
 # Hi there 👋
