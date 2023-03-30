@@ -7,6 +7,11 @@
 
   <!-- coding picture -->
   <img src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/coding.gif" /><br>
+  
+  <!-- profile logo -->
+  <div align="center">
+    <a href="https://witnessj.com/"><img src="https://img.shields.io/badge/Website-Blog-9cf" /></a>&emsp;
+  </div>
 </div>
 
 # Hi there 👋
