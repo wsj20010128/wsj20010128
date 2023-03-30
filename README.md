@@ -28,12 +28,9 @@
 <!-- About me -->
 ### 👨‍💻 About Me
   <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/handshake.gif" />
+  <p>&emsp;&emsp;Hello, World! I’m Shijie.</p>
+  <p>&emsp;&emsp;BSMS CS @ Georgia Tech 🐝</p>
   
-👤 [witnessj.com](https://witnessj.com)
-
-📄 [witnessj.com/cv](https://witnessj.com/cv)
-
-📫 [shijie@witnessj.com](shijie@witnessj.com)
 
 Languages: Python, Java, C/C++, Dart, PHP, Rust, Javascript, HTML, CSS, SQL, Bash, LaTeX
 
