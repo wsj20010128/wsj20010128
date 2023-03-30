@@ -29,10 +29,10 @@
 ### 👨‍💻 About Me
   <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/handshake.gif" />
   <p>&emsp;&emsp;Hello, World! I’m Shijie.</p>
-  <p>&emsp;&emsp;BSMS CS @ Georgia Tech 🐝</p>
+  <p>&emsp;&emsp;BSMS CS student @ Georgia Tech 🐝</p>
   <p>&emsp;&emsp;Code is my paintbrush 🖌️. The world is my canvas 🖼️.</p>
   <p>&emsp;&emsp;Fan of Computer Science, Machine Learning, Computer Vision, Quantitative Trading, Blockchain</p>
-  
+  <p>&emsp;&emsp; 🏋 ⛹🏻‍♂️ 🚴🏻‍♂️ 🎸 🪗 🎹 🎤 </p>
   
   
 </td></tr>
