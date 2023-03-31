@@ -138,6 +138,9 @@
   
   <div align="center" >
   
+  <!-- Quotes -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
+  
   
   
   
