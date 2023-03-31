@@ -114,5 +114,5 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=flat)
   
   <!-- programming tool icon -->
-  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,flutter,idea,cloudflare,mongodb,git,discord,instagram" /><br>
+  <img src="https://skillicons.dev/icons?i=linux,py,java,c,cpp,idea,flutter,cloudflare,mongodb,git,github,discord,instagram" /><br>
   
