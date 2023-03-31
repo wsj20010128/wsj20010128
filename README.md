@@ -14,7 +14,7 @@
     <a href="https://www.linkedin.com/in/shijiew/"><img src="[https://img.shields.io/badge/Linked-in-blue](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" /></a>&emsp;
     <a href="https://witnessj.com/cv"><img src="https://img.shields.io/badge/Resume-简历-important" /></a>&emsp;
     <a href="mailto:shijie@witnessj.com"><img src="https://img.shields.io/badge/Email-邮箱-yellow" /></a>&emsp;
-    <a href="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/Wechat.jpg"><img src="[https://img.shields.io/badge/WeChat-微信-brightgreen](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)" /></a>&emsp;
+    <a href="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/Wechat.jpg"><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" /></a>&emsp;
   </div>
   
   <!-- Snake Contribution -->
