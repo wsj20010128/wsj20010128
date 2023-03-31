@@ -11,10 +11,10 @@
   <!-- profile logo -->
   <div align="center">
     <a href="https://witnessj.com/"><img src="https://img.shields.io/badge/Website-Blog-9cf" /></a>&emsp;
-    <a href="https://www.linkedin.com/in/shijiew/"><img src="https://img.shields.io/badge/Linked-in-blue" /></a>&emsp;
+    <a href="https://www.linkedin.com/in/shijiew/"><img src="[https://img.shields.io/badge/Linked-in-blue](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" /></a>&emsp;
     <a href="https://witnessj.com/cv"><img src="https://img.shields.io/badge/Resume-简历-important" /></a>&emsp;
     <a href="mailto:shijie@witnessj.com"><img src="https://img.shields.io/badge/Email-邮箱-yellow" /></a>&emsp;
-    <a href="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/Wechat.jpg"><img src="https://img.shields.io/badge/WeChat-微信-brightgreen" /></a>&emsp;
+    <a href="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/Wechat.jpg"><img src="[https://img.shields.io/badge/WeChat-微信-brightgreen](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)" /></a>&emsp;
   </div>
   
   <!-- Snake Contribution -->
@@ -32,17 +32,12 @@
   <p>&emsp;&emsp;📖 Software Development, Machine Learning, Computer Vision, Quantitative Trading, Blockchain</p>
   <p>&emsp;&emsp; 🏋 ⛹🏻‍♂️ 🚴🏻‍♂️ 🎸 🪗 🎹 🎤 </p>
 
-<!--
-**wsj20010128/wsj20010128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- #################################################################################### -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/hr.gif" />
+<div align="center" >
+  
+  <!-- Man Lifting Weight -->
+  <img src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/man.png" alt="Man Lifting Weights" width="250" height="250" />
+  
+  
+  
