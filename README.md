@@ -40,7 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/man.png" alt="Man Lifting Weights" width="250" height="250" />
   
   <!--  skill badge 技能徽章 -->
-  💪 Learning
+  💪 Learning  
+  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
