@@ -22,7 +22,7 @@
 </div>
 
 # 👋 Hi there
-<!-- About me -->
+<!-- About Me -->
 ### 👨‍💻 About Me
   <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/handshake.gif" />
   <p>&emsp;&emsp;Hello, World! I’m Shijie.</p>
@@ -112,4 +112,7 @@
   ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white&style=flat)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&style=flat)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=flat)
+  
+  <!-- programming tool icon -->
+  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,flutter,idea,cloudflare,mongodb,git,discord,instagram" /><br>
   
