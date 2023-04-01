@@ -138,7 +138,7 @@
   
   <div align="center" >
   
-  <!-- Github-Stats-Terminal 终端风格信息 -->
+  <!-- Github-Stats-Terminal -->
   <img src="https://github.com/wsj20010128/Github-Stats-Terminal-Style/blob/master/github_stats.svg"/><br>
 
   <!-- Quotes -->
