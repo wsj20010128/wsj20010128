@@ -138,8 +138,13 @@
   
   <div align="center" >
   
+  <!-- Github-Stats-Terminal 终端风格信息 -->
+  <img src="https://github.com/wsj20010128/Github-Stats-Terminal-Style/blob/master/github_stats.svg"/><br>
+
   <!-- Quotes -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/><br>
+  
+  
   
   
   
