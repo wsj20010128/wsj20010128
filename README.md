@@ -132,8 +132,7 @@
   <!-- 3d img -->
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/PYTHON.png">
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/JAVA.png">
-  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/JAVASCRIPT.png">
-  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/HTML5.png">
+  <img height="120" width="120" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/JAVASCRIPT.png">
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/REACT.png">
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/VUE JS.png">
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/FLUTTER.png">
