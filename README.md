@@ -132,7 +132,7 @@
   <!-- 3d img -->
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/PYTHON.png">
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/JAVA.png">
-  <img src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/JAVASCRIPT.png" style="width: 130px; height: 130px; margin-top: 100px;">
+  <img src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/JAVASCRIPT.png" style="width: 130px; height: 130px; margin-top: 100px; margin-bottom: 0px;">
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/REACT.png">
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/VUE JS.png">
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/FLUTTER.png">
