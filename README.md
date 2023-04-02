@@ -6,7 +6,7 @@
   </div>
 
   <!-- coding picture -->
-  <img src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/computer.webp" /><br>
+  <img src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/data_lie.gif" /><br>
   
   <!-- profile logo -->
   <div align="center">
