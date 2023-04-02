@@ -129,6 +129,16 @@
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /   <br>
   
+  <!-- gif -->
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/python.gif">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/js.gif">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/html.gif">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/css.gif">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/react.gif">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/android.gif">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/vscode.gif">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/github.gif">
+  
   <!-- profile-3d-contrib 3D-->
   <img src="https://github.com/wsj20010128/wsj20010128/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
   </div>
