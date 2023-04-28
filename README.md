@@ -28,7 +28,7 @@
   <p>&emsp;&emsp;Hello, World! I’m Shijie.</p>
   <p>&emsp;&emsp;📍Shanghai 🇨🇳 ➡️ Atlanta 🇺🇸 </p>
   <p>&emsp;&emsp;BSMS CS student @ Georgia Tech '24 🐝</p>
-  <p>&emsp;&emsp;"Code is my paintbrush 🖌️. The world is my canvas 🖼️."</p>
+  <p>&emsp;&emsp;"Talk is cheap. Show me the code."</p>
   <p>&emsp;&emsp;📖 Software Development, Machine Learning, Computer Vision, Quantitative Trading, Blockchain</p>
   <p>&emsp;&emsp; 🏋 ⛹🏻‍♂️ 🚴🏻‍♂️ 🎸 🪗 🎹 🎤 </p>
 
