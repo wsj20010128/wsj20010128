@@ -32,6 +32,16 @@
   <p>&emsp;&emsp;📖 Software Development, Machine Learning, Computer Vision, Quantitative Trading, Blockchain</p>
   <p>&emsp;&emsp; 🏋 ⛹🏻‍♂️ 🚴🏻‍♂️ 🎸 🪗 🎹 🎤 </p>
   
+  <!-- #################################################################################### -->
+  <img width="200%" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/hr.gif" />
+  
+### 📃 Recent Blog
+  <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/handshake.gif" />
+  <!-- START_SECTION:blog -->
+  * <a href='https://witnessj.com/archives/prompt-engineering' target='_blank'>The Future is Now: Become a Prompt Engineer Today</a> - 2023-05-12
+  <!-- END_SECTION:blog -->
+  
+  
 <!-- #################################################################################### -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/hr.gif" />
 <div align="center" >
