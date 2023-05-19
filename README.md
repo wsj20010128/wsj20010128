@@ -166,7 +166,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/><br>
   
   <!-- Joke -->
-  <img width="150" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/squirtle1.gif" />&emsp;
+  <img width="150" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/bulbasaur.gif" />&emsp;
   <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" />
-  &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/pikachu.gif" />
+  &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/charmander1.gif" />
   
