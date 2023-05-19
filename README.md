@@ -167,6 +167,6 @@
   
   <!-- Joke -->
   <img width="150" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/squirtle.gif" />&emsp;
-  <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" />
   &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/pikachu.gif" />
   
