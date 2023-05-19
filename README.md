@@ -22,6 +22,8 @@
 </div>
 
 # 👋 Hi there
+<table>
+<tr><td>
 <!-- About Me -->
 ### 👨‍💻 About Me
   <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/handshake.gif" />
@@ -31,7 +33,8 @@
   <p>&emsp;&emsp;"Code is my paintbrush🖌️ World is my canvas🖼️"</p>
   <p>&emsp;&emsp;📖 Software Development, Machine Learning, Computer Vision, Quantitative Trading, Blockchain</p>
   <p>&emsp;&emsp; 🏋 ⛹🏻‍♂️ 🚴🏻‍♂️ 🎸 🪗 🎹 🎤 </p>
-
+</td></tr>
+  
 <!-- #################################################################################### -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/hr.gif" />
 <div align="center" >
