@@ -48,7 +48,7 @@
 <div align="center" >
   
   <!-- Man Lifting Weight -->
-  <img src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/man.png" alt="Man Lifting Weights" width="250" height="250" />
+  <img src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/typing.png" alt="Man Lifting Weights" width="250" height="250" />
   
   <!--  Skill Badges -->
   💪 Experienced
