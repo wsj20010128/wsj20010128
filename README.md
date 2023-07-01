@@ -29,7 +29,7 @@
   <p>&emsp;&emsp;📍Shanghai 🇨🇳 ➡️ Atlanta 🇺🇸 </p>
   <p>&emsp;&emsp;BSMS CS student @ Georgia Tech '24 🐝</p>
   <p>&emsp;&emsp;"Talk is Cheap. 💬 Show me the Code. 💻"</p>
-  <p>&emsp;&emsp;📖 Software Development, Machine Learning, Computer Vision, Quantitative Trading, Blockchain</p>
+  <p>&emsp;&emsp;📖 Software Development, Machine Learning, Computer Vision, Quantitative Trading</p>
   <p>&emsp;&emsp; 🏋 ⛹🏻‍♂️ 🚴🏻‍♂️ 🎸 🪗 🎹 🎤 </p>
   
   <!-- #################################################################################### -->
