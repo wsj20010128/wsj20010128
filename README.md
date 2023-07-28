@@ -38,7 +38,7 @@
 ### 📃 Recent Blog
   <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/linus-ps.png" />
   <!-- START_SECTION:blog -->
-    <a href='https://wit.ee/hh' target='_blank'>Hypnosis Health - An Emory Healthcare and GaTech Virtual Program</a> - 2023-06-30 <br>
+    <a href='https://wit.ee/hh' target='_blank'>Hypnosis Health - An Emory Healthcare and GaTech Virtual Program</a> - 2023-06-30 <br>  
     <a href='https://witnessj.com/archives/prompt-engineering' target='_blank'>The Future is Now: Become a Prompt Engineer Today</a> - 2023-05-12
   <!-- END_SECTION:blog -->
   
