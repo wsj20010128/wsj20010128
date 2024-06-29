@@ -38,6 +38,7 @@
 ### 📃 Recent Blog
   <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/wsj20010128/ImageHost/linus-ps.png" />
   <!-- START_SECTION:blog -->
+    <a href='https://witnessj.com/archives/kan' target='_blank'>What KAN I Say? MLP Out!</a> - 2024-06-19 <br>
     <a href='https://witnessj.com/archives/cuda' target='_blank'>Beyond Native PyTorch: The Power of C++/CUDA Integration</a> - 2023-09-07 <br>
     <a href='https://witnessj.com/archives/volume-rendeirng' target='_blank'>NeRF and Beyond: A Deep Dive into Volume Rendering</a> - 2023-07-31 <br> 
     <a href='https://wit.ee/hh' target='_blank'>Hypnosis Health - An Emory Healthcare and GaTech Virtual Program</a> - 2023-06-30 <br>  
