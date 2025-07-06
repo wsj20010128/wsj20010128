@@ -2,7 +2,7 @@
   
   <!-- dynamic typing effect -->
   <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&width=580&lines=Welcome+to+WitnessJ's+Cornucopia!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&center=true&width=580&lines=Welcome+to+WitnessJ's+Cornucopia!" alt="Typing SVG" /></a>
   </div>
 
   <!-- coding picture -->
